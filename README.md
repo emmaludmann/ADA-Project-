@@ -17,12 +17,12 @@ The repository is organised as follows:
 
 ⚠️ The Excel files must remain in the repository root and must not be moved.
 
-**How to Run the Project :**
+## How to Run the Project :
 
 This repository contains the final notebook for the ADA Capstone Project
 The repository must be kept unchanged after cloning or downloading:
 
-Instructions : 
+**Instructions :** 
 
 Clone the repository or download it as a ZIP file.
 Open the repository folder.
@@ -46,7 +46,7 @@ The project requires the following Python libraries:
 - scikit-learn
 - openpyxl
 
-## Reproducibility
+**Reproducibility : **
 
 All datasets are included in the repository, and all file paths are defined relative to the repository root.
 As long as the repository structure is preserved, the results are fully reproducible on any system.
